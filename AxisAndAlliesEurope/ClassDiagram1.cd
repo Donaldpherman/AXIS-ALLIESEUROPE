@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AxisAndAlliesEurope.WorldPower" Collapsed="true">
+    <Position X="30.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAEABAAAAAACAgAIIAAIAAEAAAAAAAEACAAQAA=</HashCode>
+      <FileName>WorldPower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.AirCraftCarrier" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AirCraftCarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.AirUnit" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AirUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.AntiAircraftGun" Collapsed="true">
+    <Position X="22" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AntiAircraftGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Armor" Collapsed="true">
+    <Position X="24.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Artillery" Collapsed="true">
+    <Position X="26.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Artillery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Battleship" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Battleship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Bomber" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bomber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.CombatControl" Collapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAAAIQAACACAAAAABAAAAAAASgAAAAQACA=</HashCode>
+      <FileName>CombatControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.ConvoyTerritory" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConvoyTerritory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Destroyer" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Destroyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Fighter" Collapsed="true">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Game1" Collapsed="true">
+    <Position X="30.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AxisAndAlliesEurope.Game1.ScreenState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAEEAgAAAAAwAABAAAAQAAAAAAAAgBAABAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.IndustrialComplex" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IndustrialComplex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Infantry" Collapsed="true">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infantry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.LandTerritory" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>LandTerritory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.LandUnit" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LandUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.MapController" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AxisAndAlliesEurope.MapController.Movement" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MapController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEiCAFAkUAAEAgABCCAgAIBAABACAQAAAQAAAAAQBCI=</HashCode>
+      <FileName>MapController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.NavalUnits" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NavalUnits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Player" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AxisAndAlliesEurope.Player.WhosTurn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Player.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAJggQAAAAAgAAIAAAAAAAACAAAABACQAQAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Program" Collapsed="true">
+    <Position X="30.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.PurchaseCombatUnit" Collapsed="true">
+    <Position X="32.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>PurchaseCombatUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.SeaTerritory" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SeaTerritory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Submarine" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Submarine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Territory" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUACIIYAAQEAgASAABCQIIECABQHUAgQCAAJCBAAEAM=</HashCode>
+      <FileName>Territory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Transport" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAACAAAAAAAAQAAAAAAACAAABAAAAA=</HashCode>
+      <FileName>Transport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Unit" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAkAgAAmAADIAAAARARAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AxisAndAlliesEurope.Victory" Collapsed="true">
+    <Position X="29" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Victory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

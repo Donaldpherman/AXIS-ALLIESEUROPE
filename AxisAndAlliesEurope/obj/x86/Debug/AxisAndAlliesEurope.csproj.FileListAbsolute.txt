@@ -1,0 +1,52 @@
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\buy_usa_48_star_flag.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\Canada.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\DavisStrait.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\UnitedStates.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\GameFontHighLighted.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\AxisAndAlliesEurope.exe
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\AxisAndAlliesEurope.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\AxisAndAlliesEurope.exe
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\AxisAndAlliesEurope.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\GameBoard.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\RedButton.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\GermanyControlMarker.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\GreatBritainControlMarker.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\SovietUnionControlMarker.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\UnitedStatesControlMarker.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\UnitSelectionScreen.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\casualty Selection Screen.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\Units in Highlighted Territory.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\MapFont.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\200px-National_flag_of_Germany_1933-1935.svg.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\soviet_flag.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\british_flag.xnb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\PurchaseUnitSelectionScreen.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\SovietUnionControlMarker.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\buy_usa_48_star_flag.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\GreatBritainControlMarker.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\DavisStrait.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\GameFontHighLighted.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\GameBoard.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\Canada.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\british_flag.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\UnitedStates.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\PurchaseUnitSelectionScreen.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\casualty Selection Screen.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\UnitedStatesControlMarker.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\GermanyControlMarker.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\soviet_flag.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\UnitSelectionScreen.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\200px-National_flag_of_Germany_1933-1935.svg.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\RedButton.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\Units in Highlighted Territory.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\MapFont.xnb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\AxisAndAlliesEurope.exe
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\AxisAndAlliesEurope.pdb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\AxisAndAlliesEurope.exe
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\obj\x86\Debug\AxisAndAlliesEurope.pdb

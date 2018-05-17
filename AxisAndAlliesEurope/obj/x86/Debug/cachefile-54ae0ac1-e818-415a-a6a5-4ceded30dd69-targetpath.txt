@@ -1,0 +1,20 @@
+Content\mousePointers\buy_usa_48_star_flag.xnb
+Content\Maps\MapUL\Canada.xnb
+Content\Maps\MapUL\DavisStrait.xnb
+Content\Maps\MapUL\UnitedStates.xnb
+Content\Maps\GameBoard.xnb
+Content\Button\RedButton.xnb
+Content\Button\GermanyControlMarker.xnb
+Content\Button\GreatBritainControlMarker.xnb
+Content\Button\SovietUnionControlMarker.xnb
+Content\Button\UnitedStatesControlMarker.xnb
+Content\UnitSelection\UnitSelectionScreen.xnb
+Content\UnitSelection\casualty Selection Screen.xnb
+Content\UnitSelection\Units in Highlighted Territory.xnb
+Content\mousePointers\200px-National_flag_of_Germany_1933-1935.svg.xnb
+Content\mousePointers\soviet_flag.xnb
+Content\mousePointers\british_flag.xnb
+Content\UnitSelection\PurchaseUnitSelectionScreen.xnb
+Content\Fonts\GameFont.xnb
+Content\Fonts\GameFontHighLighted.xnb
+Content\Fonts\MapFont.xnb

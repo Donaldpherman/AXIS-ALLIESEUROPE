@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mousePointers\buy_usa_48_star_flag.png</Source>
+      <Name>mousePointers\buy_usa_48_star_flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\buy_usa_48_star_flag.xnb</Output>
+      <Time>2010-03-20T14:47:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\MapUL\Canada.png</Source>
+      <Name>Maps\MapUL\Canada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\Canada.xnb</Output>
+      <Time>2010-03-20T17:12:39-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\MapUL\DavisStrait.png</Source>
+      <Name>Maps\MapUL\DavisStrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\DavisStrait.xnb</Output>
+      <Time>2010-03-20T17:24:19-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\MapUL\UnitedStates.png</Source>
+      <Name>Maps\MapUL\UnitedStates</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\MapUL\UnitedStates.xnb</Output>
+      <Time>2010-03-20T17:20:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\GameBoard.png</Source>
+      <Name>Maps\GameBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Maps\GameBoard.xnb</Output>
+      <Time>2010-04-09T13:38:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\RedButton.png</Source>
+      <Name>Button\RedButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\RedButton.xnb</Output>
+      <Time>2010-04-10T18:38:55-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\GermanyControlMarker.png</Source>
+      <Name>Button\GermanyControlMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\GermanyControlMarker.xnb</Output>
+      <Time>2010-04-22T12:46:55-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\GreatBritainControlMarker.png</Source>
+      <Name>Button\GreatBritainControlMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\GreatBritainControlMarker.xnb</Output>
+      <Time>2010-04-22T12:46:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\SovietUnionControlMarker.png</Source>
+      <Name>Button\SovietUnionControlMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\SovietUnionControlMarker.xnb</Output>
+      <Time>2010-04-22T12:46:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\UnitedStatesControlMarker.png</Source>
+      <Name>Button\UnitedStatesControlMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Button\UnitedStatesControlMarker.xnb</Output>
+      <Time>2010-04-22T12:46:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UnitSelection\UnitSelectionScreen.png</Source>
+      <Name>UnitSelection\UnitSelectionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\UnitSelectionScreen.xnb</Output>
+      <Time>2010-04-27T12:23:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UnitSelection\casualty Selection Screen.png</Source>
+      <Name>UnitSelection\casualty Selection Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\casualty Selection Screen.xnb</Output>
+      <Time>2010-05-04T00:08:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UnitSelection\Units in Highlighted Territory.png</Source>
+      <Name>UnitSelection\Units in Highlighted Territory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\Units in Highlighted Territory.xnb</Output>
+      <Time>2010-05-04T20:47:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mousePointers\200px-National_flag_of_Germany_1933-1935.svg.png</Source>
+      <Name>mousePointers\200px-National_flag_of_Germany_1933-1935.svg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\200px-National_flag_of_Germany_1933-1935.svg.xnb</Output>
+      <Time>2010-05-08T02:00:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mousePointers\soviet_flag.png</Source>
+      <Name>mousePointers\soviet_flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\soviet_flag.xnb</Output>
+      <Time>2010-05-08T02:04:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mousePointers\british_flag.png</Source>
+      <Name>mousePointers\british_flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\mousePointers\british_flag.xnb</Output>
+      <Time>2010-05-08T02:23:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UnitSelection\PurchaseUnitSelectionScreen.png</Source>
+      <Name>UnitSelection\PurchaseUnitSelectionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\UnitSelection\PurchaseUnitSelectionScreen.xnb</Output>
+      <Time>2010-05-08T13:13:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2010-03-20T22:06:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFontHighLighted.spritefont</Source>
+      <Name>Fonts\GameFontHighLighted</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\GameFontHighLighted.xnb</Output>
+      <Time>2010-03-31T22:17:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MapFont.spritefont</Source>
+      <Name>Fonts\MapFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\Fonts\MapFont.xnb</Output>
+      <Time>2010-05-04T20:54:27-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\AxisAndAlliesEurope\AxisAndAlliesEurope\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-26T23:53:33.6418179-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
